@@ -3,7 +3,7 @@
 Application permettant le partage d'activités et de ressources.
 Les animateurs peuvent créer des activités (pads) et ajouter des ressources. Les personnes ayant reçu le code peuvent consulter l'activité grâce à pad.php?code=XXXX.
 
-Gestion CRUD des comptes, des pads et des documents.
+Gestion CRUD des comptes, des pads et des documents Ainsi que des actualitées.
 
 ### Capture d'écran : 
 
