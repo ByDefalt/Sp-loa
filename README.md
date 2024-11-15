@@ -1,5 +1,9 @@
 # Spéloa Application Web en php,html,css,js,sql
 
+Application permettant le partage d'activités et de ressources.
+Les animateurs peuvent créer des activités (pads) et ajouter des ressources. Les personnes ayant reçu le code peuvent consulter l'activité grâce à pad.php?code=XXXX.
+Gestion CRUD des comptes, des pads et des documents.
+
 ### Capture d'écran : 
 
 <img src="Spéloa/markdown_doc/screen.png" alt="Capture d'écran du jeu" width="800"/>
