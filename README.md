@@ -2,13 +2,15 @@
 
 ### Capture d'écran : 
 
-<img src="Spéloa/markdown_doc/screen.png" alt="Capture d'écran du jeu" width="500"/>
+<img src="Spéloa/markdown_doc/screen.png" alt="Capture d'écran du jeu" width="800"/>
 
 ### Acquis :
 
 - **Création de diagramme UML et conception de base de données :**
 
-    <img src="markdown_doc/space_invaders.png" alt="Capture d'écran du jeu" width="1000"/>
+    <img src="Spéloa/markdown_doc/UML_BDR_0001.jpg" alt="Capture d'écran du jeu" width="700"/>
+
+    <img src="Spéloa/markdown_doc/UML_BDR_0002.jpg" alt="Capture d'écran du jeu" width="700"/>
     
     ```sql
     
